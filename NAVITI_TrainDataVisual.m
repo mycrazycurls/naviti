@@ -16,7 +16,7 @@ Extracted Variables
     VICONpc : [matrix] OptiTrack pose over time where columns correspond to [Time 
               Pitch Yaw Roll X Y Z]
 %}
-load('Experimental_Data_10_31_22.mat')
+load('Experimental_Data_09_12_22.mat')
 
 
 %riv(1,1) - VICONpc(1,1)

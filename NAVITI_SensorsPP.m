@@ -23,8 +23,8 @@ const.bagfn = 'Train_Data.bag';
 const.imutopic = '/RAWIMUA_message';
 const.optitopic = '/vrpn_client_node/Train/pose';
 const.vlptopic = '/velodyne_points';
-const.landmarkcsv = 'landmark124635_10_31_22.csv';
-const.expfn = 'Experimental_Data_10_31_22.mat';
+const.landmarkcsv = 'landmark124635_11_13_22.csv';
+const.expfn = 'Experimental_Data_11_13_22.mat';
 const.expversion = '-v7.3';
 
 % Check if bag file exists
